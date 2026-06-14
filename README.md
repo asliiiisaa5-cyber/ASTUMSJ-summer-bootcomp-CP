@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0035-search-insert-position) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -38,6 +39,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
