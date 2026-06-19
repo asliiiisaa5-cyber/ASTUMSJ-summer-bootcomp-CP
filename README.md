@@ -17,6 +17,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/3895-count-digit-appearances) |
 ## Hash Table
@@ -58,6 +59,7 @@
 | [0832-flipping-an-image](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,12 +67,14 @@
 | [0035-search-insert-position](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
