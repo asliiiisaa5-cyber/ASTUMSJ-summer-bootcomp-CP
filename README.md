@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0832-flipping-an-image](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0867-transpose-matrix) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -28,6 +29,7 @@
 | [0036-valid-sudoku](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
@@ -76,6 +78,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -107,4 +110,12 @@
 | [0832-flipping-an-image](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0867-transpose-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
