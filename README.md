@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
