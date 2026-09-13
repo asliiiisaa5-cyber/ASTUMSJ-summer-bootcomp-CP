@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
@@ -94,6 +95,7 @@
 | [0035-search-insert-position](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0349-intersection-of-two-arrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -145,6 +147,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -166,6 +169,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/asliiiisaa5-cyber/ASTUMSJ-summer-bootcomp-CP/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
